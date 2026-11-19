@@ -1,0 +1,27 @@
+{
+ "action": "laudo",
+ "protocolo": "LA-261118-F1F3",
+ "dataHora": "2026-11-19T02:40:32.848Z",
+ "placa": "TXY7D30",
+ "loja": "SP - Assaí João Dias",
+ "regional": "RAC_SP_CAPITAL",
+ "km": "4350",
+ "responsavel": "Aleff",
+ "obs": "",
+ "avarias": [
+  {
+   "peca": "Mecânica",
+   "categoria": "Mecânica",
+   "fornecedor": "Mecânica",
+   "tipo": "Suspensão",
+   "severidade": "Leve",
+   "motivo": "Risco à segurança",
+   "descricao": "Test testando test",
+   "fotos": [
+    "fotos/2026-11/TXY7D30_LA-261118-F1F3_1-1.webp"
+   ],
+   "id": "LA-261118-F1F3-1",
+   "status": "Pendente"
+  }
+ ]
+}
