@@ -1,0 +1,27 @@
+{
+ "action": "laudo",
+ "protocolo": "LA-261118-JG7E",
+ "dataHora": "2026-11-19T02:10:03.279Z",
+ "placa": "TZY7J30",
+ "loja": "Bauru",
+ "regional": "INTERIOR 2",
+ "km": "432570",
+ "responsavel": "Test",
+ "obs": "",
+ "avarias": [
+  {
+   "peca": "Elétrica",
+   "categoria": "Elétrica",
+   "fornecedor": "Elétrica",
+   "tipo": "Luz de alerta no painel",
+   "severidade": "Leve",
+   "motivo": "Risco à segurança",
+   "descricao": "Veiculo apresenta desgaste",
+   "fotos": [
+    "fotos/2026-11/TZY7J30_LA-261118-JG7E_1-1.jpg"
+   ],
+   "id": "LA-261118-JG7E-1",
+   "status": "Pendente"
+  }
+ ]
+}
