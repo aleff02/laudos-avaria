@@ -1,0 +1,28 @@
+{
+ "action": "laudo",
+ "protocolo": "LA-261119-OCOS",
+ "dataHora": "2026-11-19T11:57:15.952Z",
+ "placa": "UAY1J73",
+ "loja": "SP - Assaí João Dias",
+ "regional": "RAC_SP_CAPITAL",
+ "km": "1504",
+ "responsavel": "Aleff",
+ "obs": "",
+ "avarias": [
+  {
+   "peca": "Capô",
+   "categoria": "Funilaria e Pintura",
+   "fornecedor": "Funilaria e Pintura",
+   "tipo": "Riscado",
+   "severidade": "Leve",
+   "motivo": "Estética / imagem",
+   "descricao": "Teste",
+   "fotos": [
+    "fotos/2026-11/UAY1J73_LA-261119-OCOS_1-1.webp",
+    "fotos/2026-11/UAY1J73_LA-261119-OCOS_1-2.webp"
+   ],
+   "id": "LA-261119-OCOS-1",
+   "status": "Pendente"
+  }
+ ]
+}
