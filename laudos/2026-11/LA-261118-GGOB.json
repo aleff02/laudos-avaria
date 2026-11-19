@@ -1,0 +1,25 @@
+{
+ "action": "laudo",
+ "protocolo": "LA-261118-GGOB",
+ "dataHora": "2026-11-19T02:01:16.985Z",
+ "placa": "TST0A00",
+ "loja": "Campinas Aeroporto",
+ "regional": "RAC_SP_CAMPINAS",
+ "km": "",
+ "responsavel": "AlexTESTE Claude",
+ "obs": "",
+ "avarias": [
+  {
+   "peca": "Para-brisa",
+   "categoria": "Vidros",
+   "fornecedor": "Vidros",
+   "tipo": "Trinca",
+   "severidade": "Leve",
+   "motivo": "Reprovado no checklist",
+   "descricao": "LAUDO DE TESTE - pode excluir",
+   "fotos": [],
+   "id": "LA-261118-GGOB-1",
+   "status": "Pendente"
+  }
+ ]
+}
