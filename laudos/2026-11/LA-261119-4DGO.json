@@ -1,0 +1,30 @@
+{
+ "action": "laudo",
+ "protocolo": "LA-261119-4DGO",
+ "dataHora": "2026-11-19T03:10:29.234Z",
+ "placa": "TZY7H30",
+ "loja": "SP - Assaí João Dias",
+ "regional": "RAC_SP_CAPITAL",
+ "km": "2584",
+ "responsavel": "Aleff",
+ "obs": "",
+ "avarias": [
+  {
+   "peca": "Estepe",
+   "categoria": "Pneus",
+   "fornecedor": "Pneus",
+   "tipo": "Furado",
+   "severidade": "Leve",
+   "motivo": "Risco à segurança",
+   "descricao": "Pneu rasgado",
+   "fotos": [
+    "fotos/2026-11/TZY7H30_LA-261119-4DGO_1-1.webp",
+    "fotos/2026-11/TZY7H30_LA-261119-4DGO_1-2.webp",
+    "fotos/2026-11/TZY7H30_LA-261119-4DGO_1-3.webp",
+    "fotos/2026-11/TZY7H30_LA-261119-4DGO_1-4.webp"
+   ],
+   "id": "LA-261119-4DGO-1",
+   "status": "Pendente"
+  }
+ ]
+}
